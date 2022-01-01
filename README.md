@@ -1,1 +1,2 @@
 # pathfind
+Pathfind v JavaScriptu
